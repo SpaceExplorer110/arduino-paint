@@ -64,6 +64,6 @@ Have fun creating pixel art!
 
 I'm not a professional programmer, and this project may not use the most efficient or elegant solutions.
 
-Feel free to modify the code and share your own version on GitHub. Please give credit to the original author when doing so.
+Feel free to modify the code and share your own version on GitHub. Please give credit to me(SpaceExplorer110) when doing so.
 
 Have fun experimenting with Arduino Paint!
